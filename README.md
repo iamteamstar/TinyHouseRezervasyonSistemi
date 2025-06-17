@@ -10,7 +10,7 @@ Bu proje, Tiny House konseptli evlerin rezervasyon ve yönetimini sağlayan bir 
 - **Yapılandırma Aracı:** [Vite](https://vitejs.dev/)
 - **Programlama Dili:** TypeScript
 - **Stil:** Tailwind CSS
-- **Durum Yönetimi:** Context API (veya belirtilmişse başka bir sistem)
+- **Durum Yönetimi:** Context API 
 - **Paket Yöneticisi:** npm
 
 ---
@@ -95,8 +95,8 @@ MiniEvFrontEnd/
 
 ## 📬 İletişim
 
-Geliştirici: [Ad Soyad]  
-İletişim: [e-posta adresi]  
+Geliştirici: [Azad Koçak]  
+İletişim: [azadkocak29@gmail.com]  
 Proje Sorumlusu: Arş. Gör. Tuğba ÇELİKTEN  
 
 ---
